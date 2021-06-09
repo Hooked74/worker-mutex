@@ -1,0 +1,5 @@
+package-lock.json
+yarn.lock
+README.md
+src/lib/**/*
+cli/**/template/**
